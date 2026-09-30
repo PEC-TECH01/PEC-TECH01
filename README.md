@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Promise Chinonso Ezeibe 👋
+Founder & CEO of PEC-TECH
 
-<!--
-**PEC-TECH01/PEC-TECH01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer with skills in HTML, CSS, JavaScript, React, Tailwind CSS, Node.js, Express.js, SQL, PostgreSQL, and AWS.
 
-Here are some ideas to get you started:
+I have a growing passion for AI, Machine Learning, and Deep Learning, and I'm always open to learning, collaborating, and pushing beyond my comfort zone through real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+💻 I'm currently building full-stack web applications
+
+🌱 I'm currently learning and improving my Full-Stack Development skills
+
+🚀 My projects are available on my GitHub
+
+🤝 I'm open to learning, collaboration, and real-world projects
+
+🎯 My goal is to build professional, scalable web applications
+
+📧 How to reach me : ezeibe44@gmail.com / pezeibe12@gmail.com
+
+⚡ Fun fact : I love to learn, build, and explore new technologies. 🚀
+
